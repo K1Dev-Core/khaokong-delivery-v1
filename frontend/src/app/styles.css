@@ -477,13 +477,6 @@ dialog > form {
   border-top: 1px solid var(--border);
   z-index: 2;
 }
-.map-frame {
-  height: 360px;
-  margin: 20px 0;
-}
-.map-frame parcel-map {
-  height: 100%;
-}
 .hint {
   font-size: 12px !important;
   color: #626871;
